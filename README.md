@@ -7,7 +7,7 @@ ___
 
 ___
 
-![icammaci github stats](https://github-readme-stats.vercel.app/api?username=mhankbarbar&show_icons=true&theme=buefy&show_owner=true)
+![icammaci github stats](https://github-readme-stats.vercel.app/api?username=icammaci&show_icons=true&theme=buefy&show_owner=true)
 ___
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icammaci&theme=buefy&hide=css,html)
