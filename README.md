@@ -22,3 +22,8 @@ ___
 <img src="https://web.whatsapp.com/img/favicon/1x/favicon.png"> Whatsapp Kami</button></a>
 </div>
   
+<p align='center'>
+   <a href="https://twitter.com/mrcracked3"><img height="30" src="https://github.com/icammaci/icammaciblob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://instagram.com/cracked_212"><img height="30" src="https://github.com/icammaci/icammaci/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.facebook.com/icam.maci.526"><img height="30" src="https://github.com/icammaci/icammaci/blob/main/facebook.png?raw=true"></a>
+</P>
