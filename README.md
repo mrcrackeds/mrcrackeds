@@ -14,7 +14,7 @@ ___
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=icammaci&repo=icam-bot&theme=buefy)](https://github.com/icammaci/icam-bot)
 ![](https://github-profile-trophy.vercel.app/?username=MhankBarBar&row=2&column=3)
 
-### MY SOSMED ACCOUNT
+### MY SOCIAL MEDIA ACCOUNT
  
 <p align='center'>
    <a href="https://api.whatsapp.com/send?phone=+628978049825&text=Halo"><img height="30" src="https://web.whatsapp.com/img/favicon/1x/favicon.png"></a>&nbsp;&nbsp;
