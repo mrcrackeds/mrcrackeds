@@ -12,7 +12,7 @@ ___
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icammaci&theme=buefy&hide=css,html)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=icammaci&repo=icam-bot&theme=buefy)](https://github.com/icammaci/icam-bot)
-![](https://github-profile-trophy.vercel.app/?username=MhankBarBar&row=2&column=3)
+![](https://github-profile-trophy.vercel.app/?username=icammaci&row=2&column=3)
 
 ### MY SOCIAL MEDIA ACCOUNT
  
