@@ -27,4 +27,4 @@ ___
 - VIA PULSA : 085870849769
 - VIA OVO
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/d4ywqVJ/Whats-App-Image-2020-12-24-at-21-04-06.jpg" alt="Whats-App-Image-2020-12-24-at-21-04-06" border="0"></a>
+<a href="https://github.com/icammaci"><img src="https://i.ibb.co/d4ywqVJ/Whats-App-Image-2020-12-24-at-21-04-06.jpg" alt="Whats-App-Image-2020-12-24-at-21-04-06" border="0"></a>
