@@ -24,7 +24,6 @@ ___
 </P>
 
 ## Donate
-- VIA PULSA : 085870849769
-- VIA OVO
-
-<a href="https://github.com/mrcrackeds"><img src="https://i.ibb.co/d4ywqVJ/Whats-App-Image-2020-12-24-at-21-04-06.jpg" alt="Whats-App-Image-2020-12-24-at-21-04-06" border="0"></a>
+- VIA PULSA : 085713107246
+- VIA OVO   : -
+- VIA DANA  : 085713107246
